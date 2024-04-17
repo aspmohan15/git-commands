@@ -1,0 +1,4 @@
+git log
+git reset --hard origin/Test
+git reset --soft HEAD~1
+git revert 3ytgbbuyyuinknk -m 1
