@@ -8,3 +8,4 @@ git log
 git reset --hard origin/SA-11731
 git reset --soft HEAD~1
 git revert 046bdbf03cded056db30bcf2c682866da8a23353 -m 1
+git branch -d Test --delete local branch
